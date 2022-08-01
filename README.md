@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RafaLimaG
-- 👀 I’m interested in to laern full stack but im looking foward to front end
-- 🌱 I’m currently learning sql and python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in to learn full stack but im looking foward to front end
+- 🌱 I’m currently learning sql/python/CSS3/HTML5/Javascript
 - 📫 How to reach me rafaelg-lima@live.com
 
 <!---
